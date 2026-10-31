@@ -1,0 +1,31 @@
+/* Style the whole page */
+body {
+    /* Use Arial font */
+    font-family: Arial, sans-serif;
+    /* Put everything in the center */
+    text-align: center;
+    /* Add space at the top */
+    padding-top: 100px;
+    /* Start with a white background */
+    background-color: white;
+    /* Default text colour */
+    color: black;
+}
+
+/* Style the button */
+button {
+    /* Make the button larger */
+    padding: 15px 30px;
+    /* Increase text size */
+    font-size: 20px;
+    /* Show a hand when hovering */
+    cursor: pointer;
+}
+
+/* This class will be added by JavaScript */
+.wabMode {
+    /* Black background */
+    background-color: black;
+    /* Yellow text */
+    color: yellow;
+}
